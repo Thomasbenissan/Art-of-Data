@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digimon Lab 1
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: A Masterpeice by Thomas Benissan
 cover-img: /assets/img/Digimon_Thumbnail.jpeg
 thumbnail-img: /assets/img/Digimon_Thumbnail.jpeg
 share-img: /assets/img/Digimon_Thumbnail.jpeg
@@ -20,6 +20,6 @@ However, instead of having 2 nested if statements I decided to use check the if 
 
 I would have 
 
-(add 2nd pseudo code at bottom of file)
+![Pseudocode1](../assets/img/Pseudocode2.png){: .mx-auto.d-block :}
 
  However, when I returned the list, I had a list of more than 10 Digimons, so I added another if statement checking if the length of the list of Digimons is equal to 3 because if there are already 3 Digimon in the team we can break out of the for loop because we don’t need to loop through the rest of the Digimons since the requirement is met.
