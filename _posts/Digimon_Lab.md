@@ -16,7 +16,7 @@ In order to create a team of 3 Digimon that have 15 or less memory and 300 or mo
 
 However, instead of having 2 nested if statements I decided to use check the if teh requirement was not met to make my code cleaner. For example instead of having 
 
-(add pseudo code at the bottom of the file)
+![Pseudocode1](../assets/img/Pseudocode1.png){: .mx-auto.d-block :}
 
 I would have 
 
