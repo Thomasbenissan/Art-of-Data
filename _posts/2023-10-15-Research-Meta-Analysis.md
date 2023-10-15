@@ -2,8 +2,8 @@
 layout: post
 title: "Research Meta Analysis"
 subtitle: "A Masterpiece by Thomas Benissan"
-cover-img: /assets/img/Preworkout-Benefits.jpeg
-thumbnail-img: /assets/img/Preworkout-Banner.jpeg
+cover-img: /assets/img/Preworkout-Banner.jpeg
+thumbnail-img: /assets/img/Preworkout-Benefits.jpeg
 share-img: /assets/img/Preworkout-Benefits.jpeg
 tags: [Data-Collection]
 ---
