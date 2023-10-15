@@ -58,3 +58,19 @@ print(find_team())
 
 
     
+def find_team():
+    with open('digimon.csv', 'r') as file:
+        csv_reader = list(csv.DictReader(file))
+        next(csv_reader)
+
+        team = []
+
+        #while team attack < 300 and memory > 15
+        digimon1 = csv_reader[random.randint()]
+        digimon2 = csv_reader[random.randint()]
+        digimon3 = csv_reader[random.randint()]
+
+        team.append(digimon1,digimon2,digimon3)
+
+        #find total team attack and memory
+
