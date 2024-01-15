@@ -1,3 +1,13 @@
+---
+layout: post
+title: Analysing Premier Lueage Perfomances with Age
+subtitle: A Masterpeice by Thomas Benissan
+cover-img: /assets/img/EPL_Players.jpg
+thumbnail-img: /assets/img/EPL_Players.jpg
+share-img: /assets/img/EPL_Players.jpg
+tags: [Digimon]
+---
+
 # Analysis of Premier League Players' Performance in 2020
 
 I decided to work with a dataset about premier league players in 2020. I’ve always been super interested in how age affects a player's performance. I think the age of peak performance should be around 27 because you are at your physical peak but you are old enough to have a lot of experience in the sport, something I think is just as valuable. I wanted to see how accurate my hypothesis was by creating a performance score, made of a bunch of subfactors weighted out, and comparing that to the age of the player.
