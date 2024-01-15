@@ -5,7 +5,7 @@ subtitle: A Masterpeice by Thomas Benissan
 cover-img: /assets/img/EPL_Players.jpg
 thumbnail-img: /assets/img/EPL_Players.jpg
 share-img: /assets/img/EPL_Players.jpg
-tags: [Digimon]
+tags: [Football]
 ---
 
 # Analysis of Premier League Players' Performance in 2020
